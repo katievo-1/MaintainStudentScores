@@ -1,0 +1,12 @@
+C:\Users\Kaitlin\source\repos\StudentScores\StudentScores\StudentScores\bin\Debug\StudentScores.exe.config
+C:\Users\Kaitlin\source\repos\StudentScores\StudentScores\StudentScores\bin\Debug\StudentScores.exe
+C:\Users\Kaitlin\source\repos\StudentScores\StudentScores\StudentScores\bin\Debug\StudentScores.pdb
+C:\Users\Kaitlin\source\repos\StudentScores\StudentScores\StudentScores\obj\Debug\StudentScores.csprojAssemblyReference.cache
+C:\Users\Kaitlin\source\repos\StudentScores\StudentScores\StudentScores\obj\Debug\StudentScores.FrmStudentScores.resources
+C:\Users\Kaitlin\source\repos\StudentScores\StudentScores\StudentScores\obj\Debug\StudentScores.FrmAddNewStudent.resources
+C:\Users\Kaitlin\source\repos\StudentScores\StudentScores\StudentScores\obj\Debug\StudentScores.FrmUpdateStudent.resources
+C:\Users\Kaitlin\source\repos\StudentScores\StudentScores\StudentScores\obj\Debug\StudentScores.txtScore.resources
+C:\Users\Kaitlin\source\repos\StudentScores\StudentScores\StudentScores\obj\Debug\StudentScores.Properties.Resources.resources
+C:\Users\Kaitlin\source\repos\StudentScores\StudentScores\StudentScores\obj\Debug\StudentScores.csproj.GenerateResource.cache
+C:\Users\Kaitlin\source\repos\StudentScores\StudentScores\StudentScores\obj\Debug\StudentScores.exe
+C:\Users\Kaitlin\source\repos\StudentScores\StudentScores\StudentScores\obj\Debug\StudentScores.pdb
